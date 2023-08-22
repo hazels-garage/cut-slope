@@ -6,5 +6,19 @@
 </a>
 
 
-
 # Cut Slope
+
+![Cut Slope](images/cut_slope.jpg)
+
+## Features
+* Integrated RP2040.
+* 36 key, choc-spaced, hotswap
+* Ortho-ish with dropped/splayed pinkies and fanned thumbs
+* Big ass screen support
+
+## Build Guide
+* Flash [Firmware](FIRMWARE.md)
+* Test matrix with metal tweezers
+* Install Hotswap Sockets
+* Install Screen
+* Done
