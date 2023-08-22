@@ -23,3 +23,9 @@ _I'm bad at pictures_
 * Install Hotswap Sockets
 * Install Screen
 * Done
+
+## Credits
+* [Hardware design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf)
+* [Sleepdealr's RP2040 Design Guide](https://github.com/Sleepdealr/RP2040-designguide)
+* [Mabroum](https://github.com/AlaaSaadAbdo) - for screen suggestion and moral support
+* [Sadek Baroudi](https://github.com/sadekbaroudi) - moral support
