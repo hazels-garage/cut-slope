@@ -9,6 +9,7 @@
 # Cut Slope
 
 ![Cut Slope](images/cut_slope.jpg)
+_I'm bad at pictures_
 
 ## Features
 * Integrated RP2040.
