@@ -27,6 +27,7 @@ _I'm bad at pictures_
 ## Credits
 * [Hardware design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf)
 * [Sleepdealr's RP2040 Design Guide](https://github.com/Sleepdealr/RP2040-designguide)
+* [eblastler's ZMK Design Guide](https://github.com/ebastler/zmk-designguide) - Got the SRV05-4 from here
 * [Mabroum](https://github.com/AlaaSaadAbdo) - for screen suggestion and moral support
 * [Sadek Baroudi](https://github.com/sadekbaroudi) - moral support
 * [The Glitch Mob](https://www.youtube.com/watch?v=HD7XAOhkd-w) - for the name
